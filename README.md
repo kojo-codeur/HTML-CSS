@@ -8,9 +8,6 @@ APPRENEZ À CRÉER DES SITES WEB PARFAITEMENT ALIGNÉS ! Dans ce tutoriel HTML/C
 ✅ Corriger les problèmes d'alignement courants
 ✅ Structurer sémantiquement votre HTML
 
-💻CODE SOURCE DISPONIBLE :
-https://github.com/kojo-codeur/HTML-CSS
-
 🎯POUR QUI EST CE TUTORIEL ?
 • Débutants en développement web
 • Étudiants en informatique
